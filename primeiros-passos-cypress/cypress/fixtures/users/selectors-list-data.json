@@ -1,0 +1,18 @@
+{
+  "usernameField": "[name='username']",
+  "passwordField": "[name='password']",
+  "loginButton": "[type='submit']",
+  "dashboardGrid": ".orangehrm-dashboard-grid",
+  "wrongCredentialAlert": "[role='alert']",
+  "myInfoButton": "[href='/web/index.php/pim/viewMyDetails']",
+  "firstNameField": "[name='firstName']",
+  "lastNameField": "[name='lastName']",
+  "genericField": ".oxd-input--active",
+  "dateCloseButton": ".--close",
+  "genericSelectField": ".oxd-select-text-input",
+  "genericSubmitButton": "[type='submit']",
+  "marriedOption": ":nth-child(3) > span",
+  "sucessAlert": ".oxd-toast"
+}
+
+
